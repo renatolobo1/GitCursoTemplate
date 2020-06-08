@@ -1,0 +1,24 @@
+ls -la /  dir -a   (Ver arquivo oculto, estilo .git)
+
+git init            (Criação do repositório)
+git status         (Mostra o estado do arquivo)
+git add .          (Faz rastreamento do arquivo)
+git commit -m "Adição do arquivo"    
+git diff 
+git diff –cache / --staged
+git log 
+git log --oneline
+git checkout oi.html (recupera o arquivo deletado, ou cancela a modificação efeuada)
+git reset --hard  (recupera todos os arquivos deletados, ou cancela todas as modificações efeuada)
+git clean -f  ( Deleta arquivos não rastreados ainda)
+Arquivo com final .gitignore (faz com que os tipos de aruqivo que vc deseje, se torne inrastreavel)
+git clone url (clonar um projeto)
+git push (atualiza o servidor deixando igual ao projeto local)
+git pull (atualiza o projeto local ficando igual ao servidor)
+Star
+Fork
+pull request
+Issues
+Molestones
+labels
+close #  (Ligar um pull request a uma Issues)
