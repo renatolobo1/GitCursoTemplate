@@ -35,4 +35,5 @@ git branch develop -m nova (mudança do nome da branch local, caso esteja em uma
 Caso deseje mudar o nome da branch no servidor (deletar a mesma e salvar novamente com o nome desejado)
 git merge nome_da_branch (Nesse caso esta atualizado a branch que vc se encontra com a branch que vc escreve, 
             lembrar de depois da git push, para atualizar o servidor)
+            qual prevalece??????/
             
