@@ -1,0 +1,2 @@
+Branch:  É uma ramificação no projeto que permite que funcionalidades sejam desenvolvidas separadamente sem
+ impactar funcionlidades estáveis no projeto.

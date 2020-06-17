@@ -23,3 +23,7 @@ Molestones
 labels
 close #  (Ligar um pull request a uma Issues)
 README (https://dillinger.io/)
+git branch (Verifica as branch existente)
+git branch NOME DA BRANCH (Cria uma nova branch)
+git checkout NOME DA BRANCH (Vai para branch escolhida)
+git checkout -b NOME DA BRANCH (Já cria e seleciona a branch)
