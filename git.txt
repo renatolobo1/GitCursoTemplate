@@ -11,6 +11,7 @@ git log
 git log --oneline
 git checkout oi.html (recupera o arquivo deletado, ou cancela a modificação efeuada)
 git reset --hard  (recupera todos os arquivos deletados, ou cancela todas as modificações efeuada)
+git reset --hard HEAD~1 (Deleta commit a quantidade que tiver escrita)
 git clean -f  ( Deleta arquivos não rastreados ainda)
 Arquivo com final .gitignore (faz com que os tipos de aruqivo que vc deseje, se torne inrastreavel)
 git clone url (clonar um projeto)
