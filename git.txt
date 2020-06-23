@@ -38,4 +38,9 @@ git merge nome_da_branch (Nesse caso esta atualizado a branch que vc se encontra
             lembrar de depois da git push, para atualizar o servidor)
 kdiff3
 pull request
-
+git tag -a v1.0 -m "Versão atualizada" (Criar tag)
+git tag (Listar tag)
+git push origin v1.0 (Subir tag para servidor)
+git checkout v1.0 (Ir para tag escolhida)
+git tag -d v1.0 (Remover TAG localmente)
+git push -d origin v1.0 (Remover TAG servidor)
