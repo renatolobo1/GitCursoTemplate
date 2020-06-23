@@ -49,3 +49,4 @@ git stash (Cria um stash, e tipo deixar salvo porem se subir e sem auterar vers√
 git stash list (Lista os stashs salvos)
 git stash apply stash@{3} (Usa o stash salvo selecionado)
 git stash drop stash@{0} (Deleta o stash selecionado)
+git fetch
