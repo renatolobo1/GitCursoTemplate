@@ -56,3 +56,4 @@ git config --global alias.ac '!git add -A && git commit' (add e commit juntos) d
 git remote -v (Ver de onde ta vindo o repositorio) 
 git branch | grep c (Vai buscar branch com a letra "C")
 git tag | grep c (Vai buscar tag com a letra "C")
+gitKraken (Ferramenta de git visual legal dificil)
