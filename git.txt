@@ -54,3 +54,5 @@ git config --global alias.atalho deondeeoatalho (Criação de atalho para comand
 git config --global --unset alias.atalho (Aqui vc deleta o atalho)
 git config --global alias.ac '!git add -A && git commit' (add e commit juntos) depois acrescenta -m "e o commit"
 git remote -v (Ver de onde ta vindo o repositorio) 
+git branch | grep c (Vai buscar branch com a letra "C")
+git tag | grep c (Vai buscar tag com a letra "C")
