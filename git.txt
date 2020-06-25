@@ -50,4 +50,7 @@ git stash list (Lista os stashs salvos)
 git stash apply stash@{3} (Usa o stash salvo selecionado)
 git stash drop stash@{0} (Deleta o stash selecionado)
 git fetch (ver as atualizaçes que vão ser feitas) + git marge = GIT PULL
-git config --global alias.atalho deondeeoatalho
+git config --global alias.atalho deondeeoatalho (Criação de atalho para comando)
+git config --global --unset alias.atalho (Aqui vc deleta o atalho)
+git config --global alias.ac '!git add -A && git commit' (add e commit juntos)
+git remote -v (Ver de onde ta vindo o repositorio) 
